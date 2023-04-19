@@ -57,6 +57,6 @@ Figure III shows the 30yr returns simulation
 
 ![MC 30yr simulation plot](/Starter_Code/Images/MC_thirtyyear_sim_plot.png)
 
-Figure IV shows teh 30yr returns distribution
+Figure IV shows the 30yr returns distribution
 
 ![MC 30yr distribution plot](/Starter_Code/Images/MC_thirtyyear_dist_plot.png)
