@@ -50,5 +50,11 @@ Part 2 Results: The code uses a monte carlo simulation to project the portfolio 
 Figure I shows the 10yr returns simulation 
 ![MC 10yr simulation plot](/Starter_Code/Images/MC_tenyear_sim_plot.png)
 
-Figure II shows teh 30yr returns simulation
+Figure II shows the 10yr returns distribution and 95% confidence intervals
+![MC 10yr distribution plot](/Starter_Code/Images/MC_tenyear_dist_plot.png)
+
+Figure III shows teh 30yr returns simulation
 ![MC 30yr simulation plot](/Starter_Code/Images/MC_thirtyyear_sim_plot.png)
+
+Figure IV shows teh 30yr returns simulation
+![MC 30yr distribution plot](/Starter_Code/Images/MC_thirtyyear_dist_plot.png)
