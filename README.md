@@ -24,7 +24,7 @@ Historical data and challenge questions provided by Columbia FinTech progam.
 Analysis, code, and conclusions completed by Sean Senhouse
 
 ## Installation Guide
-### To review challenge 4:
+### To review challenge 5:
 
 * First initialze the dev environment and the Jupyter lab by typing the following at the command prompt:  
 
@@ -48,7 +48,7 @@ Figure below shows the mix of the member's portfoilio
 Part 2 Results: The code uses a monte carlo simulation to project the portfolio returns for 30yrs and 10 yrs. At the end of the simulation the program shows that the member will have sufficient funds within 10yrs to retire. The report also shows the confidence interval for each simulation and projects that potential portfolio returns. 
 
 Figure I shows the 10yr returns simulation 
-![MC 10yr simulation plot](/Starter_Code/Images/MC_tenyear_dist_plot.png)
+![MC 10yr simulation plot](/Starter_Code/Images/MC_tenyear_sim_plot.png)
 
 Figure II shows teh 30yr returns simulation
-![MC 30yr simulation plot](
+![MC 30yr simulation plot](/Starter_Code/Images/MC_thirtyyear_sim_plot.png)
