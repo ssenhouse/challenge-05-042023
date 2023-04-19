@@ -1,9 +1,7 @@
 # *challenge-05-042023*
 ---
-** Repository for challeneg 5 for FinTech BootCamp**
+** Repository for challenge 5 for FinTech BootCamp**
 ---
- Fintech Bootcamp challenge 5 
-
 ## Financial Planning with API's and Simulations
 ![Image used from original FinTech challenge files](/Starter_Code/Images/5-4-challenge-image.png)
 The purpse of this challenge was to analyze a credit union member's savings and project when the member might be able to retire based on the rate of returns of the member's portfolio, where the member's portfolio comprises of stocks/bonds, and crypto currency. 
@@ -59,6 +57,6 @@ Figure III shows the 30yr returns simulation
 
 ![MC 30yr simulation plot](/Starter_Code/Images/MC_thirtyyear_sim_plot.png)
 
-Figure IV shows teh 30yr returns simulation
+Figure IV shows teh 30yr returns distribution
 
 ![MC 30yr distribution plot](/Starter_Code/Images/MC_thirtyyear_dist_plot.png)
