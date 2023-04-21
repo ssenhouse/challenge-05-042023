@@ -14,7 +14,8 @@ This project leverages python 3.7 specifically and assumes that jupyter lab has 
 * pandas
 
 ## Resources
-* Data provided by Columbia FinTech program. 
+* Data provided by Columbia FinTech program.
+* MC Simulation module provided by Columbia FinTech program
 
 ## Contributions 
 
@@ -30,18 +31,21 @@ Analysis, code, and conclusions completed by Sean Senhouse
 str("conda activate dev")
 str("jupyter lab")
 ```
-* Open the Jupter Notebook titled: **risk_return_analysis.ipynb** 
+* Open the Jupter Notebook titled: **financial_planning_tools.ipynb** 
 
 * Run all of the code
 
 ## Usage
-Once the book is opened, the book is broken up into several sections:
+Once the book is opened, the book is broken up two sections:
 * Part 1: A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
 
 * Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
-Part 1 Results: The code calculates the member's current portfolio's value. The report then tests whether the memember's savings is sufficient to replace 3 months for montly income. 
-Figure below shows the mix of the member's portfoilio
+Part 1 Results: The code calculates the member's current portfolio's value. The report then tests whether the memember's savings is sufficient to replace the member's monthly income for 3 months
+
+Figure I below shows the mix of the member's portfoilio
+![Member's portfolio of stocks and bonds](/Starter_Code/Images/members_portfolio.png)
+
 
 Part 2 Results: The code uses a monte carlo simulation to project the portfolio returns for 30yrs and 10 yrs. At the end of the simulation the program shows that the member will have sufficient funds within 10yrs to retire. The report also shows the confidence interval for each simulation and projects that potential portfolio returns. 
 
