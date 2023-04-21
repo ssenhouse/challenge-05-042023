@@ -47,7 +47,7 @@ Figure I below shows the mix of the member's portfoilio
 ![Member's portfolio of stocks and bonds](/Starter_Code/Images/members_portfolio.png)
 
 
-Part 2 Results: The code uses a monte carlo simulation to project the portfolio returns for 30yrs and 10 yrs. At the end of the simulation the program shows that the member will have sufficient funds within 10yrs to retire. The report also shows the confidence interval for each simulation and projects that potential portfolio returns. 
+Part 2 Results: The code uses a monte carlo simulation to project the portfolio returns for 30yrs and 10 yrs. At the end of the simulation the program shows that the member will not have sufficient funds within 10yrs to retire. The report also shows the confidence 95% confidence intervals for the portfolio returns for both simulations.  
 
 Figure I shows the 30yr returns simulation
 
@@ -57,10 +57,10 @@ Figure II shows the 30yr returns distribution and 95% confidence intervals
 
 ![MC 10yr distribution plot](/Starter_Code/Images/MC_thirtyyear_dist_plot.png)
 
-Figure III shows the 30yr returns simulation
+Figure III shows the 10yr returns simulation
 
 ![MC 30yr simulation plot](/Starter_Code/Images/MC_tenyear_sim_plot.png)
 
-Figure IV shows the 30yr returns distribution
+Figure IV shows the 10yr returns distribution
 
 ![MC 30yr distribution plot](/Starter_Code/Images/MC_tenyear_dist_plot.png)
