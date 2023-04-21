@@ -42,7 +42,9 @@ Once the book is opened, the book is broken up two sections:
 * Part 2: A financial planner for retirement. This tool will forecast the performance of their retirement portfolio in 30 years. To do this, the tool will make an Alpaca API call via the Alpaca SDK to get historical price data for use in Monte Carlo simulations.
 
 Part 1 Results: The code calculates the member's current portfolio's value. The report then tests whether the memember's savings is sufficient to replace the member's monthly income for 3 months 
-Figure below shows the mix of the member's portfoilio
+Figure I below shows the mix of the member's portfoilio
+![Member's portfolio of stocks and bonds](/Starter_Code/Images/members_portfolio.png)
+
 
 Part 2 Results: The code uses a monte carlo simulation to project the portfolio returns for 30yrs and 10 yrs. At the end of the simulation the program shows that the member will have sufficient funds within 10yrs to retire. The report also shows the confidence interval for each simulation and projects that potential portfolio returns. 
 
